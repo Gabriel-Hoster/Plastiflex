@@ -1,29 +1,34 @@
-Plastiflex: Presença Digital e Estratégia Online
-O presente projeto consiste na presença digital oficial da Plastiflex, desenvolvido com o objetivo estratégico de consolidar a autoridade da marca no ambiente online e otimizar a captação de novos clientes. O site foi projetado para transmitir os pilares fundamentais da empresa: confiança, qualidade e eficiência técnica.
+# Plastiflex: Presença Digital e Estratégia Online
 
-1. Escopo e Objetivos
-A plataforma atua como o principal ponto de contato entre a Plastiflex e seu público-alvo, estruturada para oferecer uma navegação intuitiva e profissional através dos seguintes eixos:
+Este projeto visa estabelecer a presença digital oficial da Plastiflex, com o objetivo estratégico de consolidar a autoridade da marca no ambiente online e otimizar a captação de novos clientes. O site foi projetado para refletir os pilares fundamentais da empresa: **confiança**, **qualidade** e **eficiência técnica**.
 
-Conversão e Leads: Estrutura focada em facilitar o contato direto do cliente com a empresa.
+## 1. Escopo e Objetivos
 
-Identidade Visual: Design alinhado aos padrões de excelência da Plastiflex, garantindo reconhecimento de marca.
+A plataforma atua como o principal ponto de contato entre a Plastiflex e seu público-alvo, com uma estrutura focada em oferecer uma navegação intuitiva e profissional através dos seguintes eixos:
 
-Escalabilidade: Arquitetura preparada para receber módulos futuros, incluindo áreas restritas para funcionários e portal do cliente, conforme a necessidade de expansão do negócio.
+### 1.1 Conversão e Leads
+A arquitetura foi desenvolvida para facilitar o contato direto dos clientes com a empresa, com foco em **conversão** e **geração de leads**.
 
-2. Diretrizes de Suporte e Contato
-Para garantir a agilidade no atendimento, as solicitações devem seguir os canais específicos abaixo:
+### 1.2 Identidade Visual
+O design do site foi cuidadosamente alinhado aos **padrões de excelência** da Plastiflex, garantindo uma **forte identidade visual** e reconhecimento de marca.
 
-Assuntos Corporativos e Comerciais
-Dúvidas relacionadas a produtos, serviços, orçamentos ou informações institucionais sobre a empresa Plastiflex devem ser encaminhadas exclusivamente através dos meios de contato (e-mail e telefone) disponibilizados no próprio site.
+### 1.3 Escalabilidade
+A plataforma foi projetada com **arquitetura escalável**, preparada para incorporar módulos futuros, incluindo **áreas restritas para funcionários** e **portal do cliente**, conforme a necessidade de expansão do negócio.
 
-Consultoria Técnica e Desenvolvimento
-Para questões relacionadas à arquitetura do software, infraestrutura de hospedagem, gestão de domínio ou lógica de desenvolvimento, o contato deve ser feito diretamente com o desenvolvedor responsável:
+## 2. Diretrizes de Suporte e Contato
 
-Desenvolvedor: Nicolas Siqueira
+Para garantir agilidade no atendimento, as solicitações devem ser enviadas pelos seguintes canais:
 
-Contato: Informações disponíveis via perfil oficial no GitHub.
+### 2.1 Assuntos Corporativos e Comerciais
+Dúvidas relacionadas a produtos, serviços, orçamentos ou informações institucionais devem ser enviadas exclusivamente através dos meios de contato (e-mail e telefone) disponibilizados no próprio site da Plastiflex.
 
-3. Créditos e Propriedade
-Desenvolvimento: Nicolas Siqueira
+### 2.2 Consultoria Técnica e Desenvolvimento
+Para questões relacionadas à arquitetura do software, infraestrutura de hospedagem, gestão de domínio ou lógica de desenvolvimento, entre em contato diretamente com o desenvolvedor responsável:
 
-Cliente Requisitante: Plastiflex
+- **Desenvolvedor:** Nicolas Siqueira
+- **Contato:** Informações disponíveis via [perfil oficial no GitHub](https://github.com/Nicolassiqueira05).
+
+## 3. Créditos e Propriedade
+
+- **Desenvolvimento:** Nicolas Siqueira
+- **Cliente Requisitante:** Plastiflex
